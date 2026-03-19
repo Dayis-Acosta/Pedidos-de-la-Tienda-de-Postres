@@ -16,4 +16,10 @@ public class Comanda {
        // Lugar donde se quiere sentar
        return nmesa;
    }
+   public int eliminarPedido (){
+       return 0;
+   }
+   public int pedidoEntregado (){
+       return 0;
+   }
 }
